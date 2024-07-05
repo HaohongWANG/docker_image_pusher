@@ -1,1 +1,2 @@
-milvusdb/milvus:v2.4.0
+#milvusdb/milvus:v2.4.0
+milvus-io/milvus
